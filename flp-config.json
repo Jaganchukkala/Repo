@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "MSS.EmployeePost.EmployeePost",
+        "description": "MSS.EmployeePost.EmployeePost",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#EmployeePost-Display",
+        "navigationComponentName": "MSS.EmployeePost",
+        "intentSemanticObject": "EmployeePost",
+        "intentAction": "Display",
+        "html5ApplicationName": "employeepost",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "595d72ca-2696-4fb3-aa04-05a766859a79"
+        ],
+        "contentPackages": [
+            "10c0973b-cbdd-4d7e-8106-7b814d127ee8-1537801590810"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "ZDESTINATION",
+        "subtitle": "Subtitle",
+        "searchKeywords": "ZDESTINATION,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
