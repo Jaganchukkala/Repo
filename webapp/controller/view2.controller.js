@@ -11,7 +11,7 @@ sap.ui.define([
 		 * @memberOf MSS.EmployeePost.view.view2
 		 */
 		onInit: function () {
-
+			alert("hello");
 		},
 
 		/**
